@@ -1,0 +1,1 @@
+{"jobID":"a6457f6e-8e23-3f43-1992-0280b2761953","spec":{"type":"policy","cause":{"Message":"","User":"Enes Anbar \u003ceanbar@ebay.com\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"automated":"true"},"remove":{}}}},"result":null}
